@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Praktikum 1</string>
+    <string name="todo">TODO</string>
+    <string name="keluar">Keluar</string>
+    <string name="selamat_datang_di_upn_veteran_jatim">Selamat Datang di UPN Veteran Jatim</string>
+    <string name="nama_saya_ibrahim_saya_adalah_mahaiswa_sistem_informasi_fakultas_ilmu_komputer_upn_veteran_jawa_timur">Nama saya Ibrahim, Saya adalah mahaiswa Sistem Informasi FAkultas Ilmu Komputer UPN Veteran Jawa Timur</string>
+    <string name="hubungi">Hubungi</string>
+</resources>
